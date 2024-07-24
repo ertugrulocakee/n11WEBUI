@@ -1,0 +1,8 @@
+<suite name = "n11 Project" >
+    <parameter name ="browser" value ="Chrome" />
+    <test name="n11" >
+        <classes>
+            <class name ="testRunners.runner" />
+        </classes>
+    </test>
+</suite>
