@@ -18,3 +18,9 @@ Kontrol Edilecek Noktalar:
 N11 Web uygulaması için BDD tabanlı örnek test otomasyonu çalışması yapılmıştır.
 Web otomasyonu selenium framework kullanılarak yazıldı. TestNG kullanıldı. 
 Java programlama dili ile yazılmıştır. Cucumber BDD Aracı kullanıldı. Test Rapor çıktısı cucumber report ile sağlandı. 
+
+Çalışmaya dair video aşağıda görülmektedir.
+
+
+https://github.com/user-attachments/assets/97461e9d-e225-4430-afca-9a499dfbfa89
+
