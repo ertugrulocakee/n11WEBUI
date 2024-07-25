@@ -1,3 +1,4 @@
+Ödev 1:
 Steps:
 1. "Tüm Mağazalar" butonuna tıklanır
 2. “S” harfi ile başlayan mağazalar filtrelenir
@@ -23,4 +24,10 @@ Java programlama dili ile yazılmıştır. Cucumber BDD Aracı kullanıldı. Tes
 
 
 https://github.com/user-attachments/assets/97461e9d-e225-4430-afca-9a499dfbfa89
+
+Ödev 2:
+Akış;
+• Anasayfada search alanına iphone yazılıp arama isteği atılır.
+Jmeter ödevi için için hazırladığım n11.jmx dosyası repo içindedir.
+
 
